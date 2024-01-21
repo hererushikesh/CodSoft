@@ -13,6 +13,6 @@ public class Calculator {
 		
 		Grades grade= new Grades();
 		grade.showGrades();
-		System.out.println("\n"+"**************************************************************");
+		System.out.println("\n"+"*************************************************************");
 	}
 }
